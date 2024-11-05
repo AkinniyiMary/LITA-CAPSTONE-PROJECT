@@ -17,4 +17,4 @@ This data set portray the application of data analysis in our daily life.
 - Pivot table visualisation
 - Data import to sql server
 - Queries exceution
-- Data import to power bi......
+- Data import to power bi ...to be continued
