@@ -41,6 +41,9 @@ Lita capstone dataset
 - Visualizations
 
 ### DATA FILES SALES DATA
+[LITA Capstone Dataset.xlsx](https://github.com/user-attachments/files/17669191/LITA.Capstone.Dataset.xlsx)
+
+
 ![Screenshot 2024-11-03 212839](https://github.com/user-attachments/assets/4ff093d3-9c5d-4919-898a-db427138a740)
 ![Screenshot 2024-11-07 164351](https://github.com/user-attachments/assets/da95f891-bb82-4c14-a420-1a4ce3b9537b)
 ![Screenshot 2024-11-07 164409](https://github.com/user-attachments/assets/67285c24-45a2-4f05-adf0-13ef19d5688f)
@@ -51,8 +54,12 @@ Lita capstone dataset
 [Sales data.csv](https://github.com/user-attachments/files/17669054/Sales.data.csv)
 
 ### DATA FILES CUSTOMER DATA
-
-
+![Screenshot 2024-11-07 164502](https://github.com/user-attachments/assets/eb0d997c-bdbf-41fe-a72d-8b49e511b87e)
+![Screenshot 2024-11-07 165108](https://github.com/user-attachments/assets/f13416f4-45de-4435-9cc4-2c46a3426f59)
+![Screenshot 2024-11-07 170125](https://github.com/user-attachments/assets/16a61672-2a0f-44c5-9d33-756adcc3f728)
+![Screenshot 2024-11-07 170100](https://github.com/user-attachments/assets/4c783112-0cfd-4d55-b2db-6b5f6aeb7c48)
+![Screenshot 2024-11-07 170111](https://github.com/user-attachments/assets/28d79408-20c8-43e1-bbca-859e0d41dc5e)
+[Customer data.csv](https://github.com/user-attachments/files/17669129/Customer.data.csv)
 
 ### CONCLUSION
 This project provided valuable insights on sales trend,top selling products, regoinal performance of prducts e.t.c
