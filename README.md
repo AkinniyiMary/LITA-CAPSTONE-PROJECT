@@ -1,7 +1,7 @@
 ### LITA-CAPSTONE-PROJECT
 Welcome to my data analysis portfolio! ☺ 
 This is my first project in data analysis ...
-sit back and enjoy!!!
+sit back and enjoy 😍!!!
 
 ### TABLE OF CONTENT
 - [Introduction](Introduction)
